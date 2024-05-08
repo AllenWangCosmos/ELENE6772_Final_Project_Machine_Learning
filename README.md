@@ -6,5 +6,5 @@ This project belongs to the course project from ELENE 6772, 2024 Spring, Columbi
 - R. Dudukovich and C. Papachristou, "Delay tolerant network routing as a machine learning classification problem," in *2018 NASA/ESA Conference on Adaptive Hardware and Systems (AHS)*, 2018, pp. 96--103.
 
 
-## Course Project Author Contact Information
+## Contact Information
 yw4127@columbia.edu
