@@ -7,5 +7,5 @@ This project belongs to the course project from ELENE 6772, 2024 Spring, Columbi
 
 
 ## Contact Information
-yw4127@columbia.edu \\
+yw4127@columbia.edu \n
 yf2667@columbia.edu
