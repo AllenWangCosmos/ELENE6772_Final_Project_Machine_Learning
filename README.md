@@ -1,2 +1,2 @@
 # ELENE6772_Project_DTN
-Columbia University 2024 Spring ELENE 6772 Final Project: Delay Tolerant Network
+This project belongs to the course project from ELENE 6772, 2024 Spring, Columbia University. It is a reproduction implementation of the paper: Delay tolerant network routing as a machine learning classification problem.
